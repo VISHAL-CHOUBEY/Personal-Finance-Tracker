@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "A complete, production-ready AI Personal Finance Tracker with dashboard, transaction management, automated predictions, receipt OCR, and a smart financial advisory chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
